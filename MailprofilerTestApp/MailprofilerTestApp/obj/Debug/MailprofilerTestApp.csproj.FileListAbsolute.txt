@@ -1,0 +1,13 @@
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\bin\Debug\MailprofilerTestApp.exe.config
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\bin\Debug\MailprofilerTestApp.exe
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\bin\Debug\MailprofilerTestApp.pdb
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\obj\Debug\MailprofilerTestApp.csprojAssemblyReference.cache
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\obj\Debug\MailprofilerTestApp.Form1.resources
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\obj\Debug\MailprofilerTestApp.Properties.Resources.resources
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\obj\Debug\MailprofilerTestApp.csproj.GenerateResource.cache
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\obj\Debug\MailprofilerTestApp.csproj.CoreCompileInputs.cache
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\obj\Debug\MailprofilerTestApp.exe
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\obj\Debug\MailprofilerTestApp.pdb
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\obj\Debug\MailprofilerTestApp.InsertForm.resources
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\obj\Debug\MailprofilerTestApp.EditForm.resources
+C:\Users\proko\OneDrive\Dokumenty\Visual Studio projekty\MailprofilerTestApp\MailprofilerTestApp\obj\Debug\MailprofilerTestApp.DeleteForm.resources
