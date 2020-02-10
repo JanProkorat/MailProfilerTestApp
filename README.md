@@ -1,1 +1,1 @@
-# MailProfilerTestApp
+# WinFormsTestApp
